@@ -1,0 +1,4 @@
+tools/convert_imageset_and_flow.cpp:5:1: warning: multi-line comment [-Wcomment]
+tools/convert_imageset_and_flow.cpp: In function ‘int main(int, char**)’:
+tools/convert_imageset_and_flow.cpp:398:7: warning: variable ‘data_size’ set but not used [-Wunused-but-set-variable]
+tools/convert_imageset_and_flow.cpp:448:16: warning: ‘batch’ may be used uninitialized in this function [-Wmaybe-uninitialized]
