@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# caffe models
+
+./flownet2_caffe/models/*
